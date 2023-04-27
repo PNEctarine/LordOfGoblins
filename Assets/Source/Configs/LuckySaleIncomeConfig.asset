@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2a1f580837dc40f5904255308007ed4, type: 3}
+  m_Name: LuckySaleIncomeConfig
+  m_EditorClassIdentifier: 
+  LuckySaleIncomes:
+  - IncomeMultiplier: 1.2
+    Cost: 400
+  - IncomeMultiplier: 1.3
+    Cost: 850
+  - IncomeMultiplier: 1.4
+    Cost: 2000
+  - IncomeMultiplier: 1.5
+    Cost: 4000
+  - IncomeMultiplier: 1.6
+    Cost: 8000
+  - IncomeMultiplier: 1.7
+    Cost: 9000
+  - IncomeMultiplier: 1.8
+    Cost: 10000
+  - IncomeMultiplier: 1.9
+    Cost: 40000
+  - IncomeMultiplier: 2
+    Cost: 120000
+  - IncomeMultiplier: 2.1
+    Cost: 210000
+  - IncomeMultiplier: 2.2
+    Cost: 380000
+  - IncomeMultiplier: 2.3
+    Cost: 700000
+  - IncomeMultiplier: 2.4
+    Cost: 1000000
+  - IncomeMultiplier: 2.5
+    Cost: 10000000
+  - IncomeMultiplier: 2.6
+    Cost: 15000000
+  - IncomeMultiplier: 2.7
+    Cost: 40000000
+  - IncomeMultiplier: 2.8
+    Cost: 100000000
+  - IncomeMultiplier: 2.9
+    Cost: 500000000
+  - IncomeMultiplier: 3
+    Cost: 999000000
+  - IncomeMultiplier: 3.1
+    Cost: 1000000000
+  - IncomeMultiplier: 3.2
+    Cost: 1500000000
+  - IncomeMultiplier: 3.3
+    Cost: 3200000000
+  - IncomeMultiplier: 3.4
+    Cost: 7000000000
+  - IncomeMultiplier: 3.5
+    Cost: 30000000000
+  - IncomeMultiplier: 3.6
+    Cost: 100000000000

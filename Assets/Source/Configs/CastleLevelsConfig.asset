@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f63149ddea00486ea411bc9aee04936, type: 3}
+  m_Name: CastleLevelsConfig
+  m_EditorClassIdentifier: 
+  CastleLevels:
+  - Cost: 0
+    LevelType: 0
+  - Cost: 3000
+    LevelType: 0
+  - Cost: 7500
+    LevelType: 1
+  - Cost: 11250
+    LevelType: 0
+  - Cost: 23700
+    LevelType: 2
+  - Cost: 51000
+    LevelType: 0
+  - Cost: 80000
+    LevelType: 0
+  - Cost: 112000
+    LevelType: 0
+  - Cost: 130000
+    LevelType: 0
+  - Cost: 185000
+    LevelType: 1
+  - Cost: 240000
+    LevelType: 3
+  - Cost: 310000
+    LevelType: 0
+  - Cost: 390000
+    LevelType: 0
+  - Cost: 500000
+    LevelType: 0
+  - Cost: 590000
+    LevelType: 0
+  - Cost: 680000
+    LevelType: 1
+  - Cost: 800000
+    LevelType: 0
+  - Cost: 997000
+    LevelType: 0
+  - Cost: 1200000
+    LevelType: 3
+  - Cost: 1500000
+    LevelType: 0
+  - Cost: 2100000
+    LevelType: 0
+  - Cost: 3000000
+    LevelType: 1
+  - Cost: 4200000
+    LevelType: 2
+  - Cost: 6000000
+    LevelType: 0
+  - Cost: 7500000
+    LevelType: 0
+  - Cost: 9000000
+    LevelType: 0
+  - Cost: 12000000
+    LevelType: 0
+  - Cost: 16000000
+    LevelType: 1
+  - Cost: 20000000
+    LevelType: 3
+  - Cost: 26000000
+    LevelType: 0
+  - Cost: 32700000
+    LevelType: 0
+  - Cost: 40000000
+    LevelType: 0
+  - Cost: 51000000
+    LevelType: 0
+  - Cost: 69000000
+    LevelType: 1
+  - Cost: 84000000
+    LevelType: 0
+  - Cost: 110000000
+    LevelType: 0
+  - Cost: 138000000
+    LevelType: 2
+  - Cost: 203000000
+    LevelType: 3
+  - Cost: 235000000
+    LevelType: 0
+  - Cost: 329000000
+    LevelType: 1
+  - Cost: 601000000
+    LevelType: 0
+  - Cost: 1000000000
+    LevelType: 2
+  - Cost: 1700000000
+    LevelType: 0

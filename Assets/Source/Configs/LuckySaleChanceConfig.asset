@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3c78fec2c4524f1581743119ce0e1c9, type: 3}
+  m_Name: LuckySaleChanceConfig
+  m_EditorClassIdentifier: 
+  LuckySaleChances:
+  - Chance: 2
+    Cost: 350
+    LocationToOpen: 1
+  - Chance: 3
+    Cost: 900
+    LocationToOpen: 1
+  - Chance: 4
+    Cost: 1300
+    LocationToOpen: 1
+  - Chance: 5
+    Cost: 2100
+    LocationToOpen: 1
+  - Chance: 6
+    Cost: 4000
+    LocationToOpen: 1
+  - Chance: 7
+    Cost: 6000
+    LocationToOpen: 1
+  - Chance: 8
+    Cost: 9000
+    LocationToOpen: 1
+  - Chance: 9
+    Cost: 11000
+    LocationToOpen: 1
+  - Chance: 10
+    Cost: 20000
+    LocationToOpen: 1
+  - Chance: 11
+    Cost: 40000
+    LocationToOpen: 1
+  - Chance: 12
+    Cost: 70000
+    LocationToOpen: 1
+  - Chance: 13
+    Cost: 80000
+    LocationToOpen: 2
+  - Chance: 14
+    Cost: 100000
+    LocationToOpen: 2
+  - Chance: 15
+    Cost: 200000
+    LocationToOpen: 2
+  - Chance: 16
+    Cost: 300000
+    LocationToOpen: 2
+  - Chance: 17
+    Cost: 400000
+    LocationToOpen: 2
+  - Chance: 18
+    Cost: 500000
+    LocationToOpen: 2
+  - Chance: 19
+    Cost: 700000
+    LocationToOpen: 2
+  - Chance: 20
+    Cost: 900000
+    LocationToOpen: 2
+  - Chance: 21
+    Cost: 1000000
+    LocationToOpen: 3
+  - Chance: 22
+    Cost: 2000000
+    LocationToOpen: 3
+  - Chance: 23
+    Cost: 5000000
+    LocationToOpen: 3
+  - Chance: 24
+    Cost: 10000000
+    LocationToOpen: 3
+  - Chance: 25
+    Cost: 70000000
+    LocationToOpen: 3
+  - Chance: 30
+    Cost: 100000000
+    LocationToOpen: 3
+  - Chance: 35
+    Cost: 200000000
+    LocationToOpen: 3
+  - Chance: 40
+    Cost: 500000000
+    LocationToOpen: 3
+  - Chance: 45
+    Cost: 800000000
+    LocationToOpen: 3
+  - Chance: 50
+    Cost: 1000000000
+    LocationToOpen: 3
+  - Chance: 55
+    Cost: 3000000000
+    LocationToOpen: 3
+  - Chance: 60
+    Cost: 4000000000
+    LocationToOpen: 3
+  - Chance: 65
+    Cost: 5000000000
+    LocationToOpen: 0
+  - Chance: 70
+    Cost: 8000000000
+    LocationToOpen: 3

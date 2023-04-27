@@ -1,0 +1,15 @@
+Coin.png
+size:612,460
+filter:Linear,Linear
+pma:true
+coin-1
+bounds:450,2,80,456
+offsets:6,5,90,465
+rotate:180
+coin-1-2
+bounds:529,2,80,456
+offsets:6,5,90,465
+rotate:180
+coin-2
+bounds:2,10,448,448
+offsets:6,6,460,460

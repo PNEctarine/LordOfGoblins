@@ -1,0 +1,391 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: Tutorial
+      TermType: 0
+      Description: 
+      Languages:
+      - sdfsfs
+      - "\u043B\u043E\u043B\u043E\u043B\u043E\u043B"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: LiberationSans SDF
+      TermType: 9
+      Description: 
+      Languages:
+      - Berlin Sans FB Demi Bold SDF
+      - Berlin Sans FB Demi Bold SDF
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Shop
+      TermType: 0
+      Description: 
+      Languages:
+      - Shop
+      - "\u041C\u0430\u0433\u0430\u0437\u0438\u043D"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Update
+      TermType: 0
+      Description: 
+      Languages:
+      - Update
+      - "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: UpgradeStorage
+      TermType: 0
+      Description: 
+      Languages:
+      - UPGRADE
+      - "\u0423\u041B\u0423\u0427\u0428\u0418\u0422\u042C"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Level
+      TermType: 0
+      Description: 
+      Languages:
+      - Level
+      - "\u0423\u0440\u043E\u0432\u0435\u043D\u044C"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Music
+      TermType: 0
+      Description: 
+      Languages:
+      - Music
+      - "\u041C\u0443\u0437\u044B\u043A\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Effects
+      TermType: 0
+      Description: 
+      Languages:
+      - Effects
+      - "\u042D\u0444\u0444\u0435\u043A\u0442\u044B"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Language
+      TermType: 0
+      Description: 
+      Languages:
+      - Language
+      - "\u042F\u0437\u044B\u043A"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Berlin Sans FB Demi Bold SDF
+      TermType: 9
+      Description: 
+      Languages:
+      - Berlin Sans FB Demi Bold SDF
+      - Berlin Sans FB Demi Bold SDF
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Support
+      TermType: 0
+      Description: 
+      Languages:
+      - Support
+      - "\u041F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Restore Purchase
+      TermType: 0
+      Description: 
+      Languages:
+      - "Restore \nPurchase"
+      - "\u0412\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0442\u044C\n\u041F\u043E\u043A\u0443\u043F\u043A\u0438"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Settings
+      TermType: 0
+      Description: 
+      Languages:
+      - Settings
+      - "\u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Storage upgade
+      TermType: 0
+      Description: 
+      Languages:
+      - Storage upgade
+      - "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 \u0445\u0440\u0430\u043D\u0438\u043B\u0438\u0449\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: First you need to upgrade past levels
+      TermType: 0
+      Description: 
+      Languages:
+      - First you need to upgrade past levels
+      - "\u0421\u043D\u0430\u0447\u0430\u043B\u0430 \u0432\u0430\u043C \u043D\u0443\u0436\u043D\u043E
+        \u0443\u043B\u0443\u0447\u0448\u0438\u0442\u044C \u043F\u0440\u0435\u0434\u044B\u0434\u0443\u0449\u0438\u0435
+        \u0443\u0440\u043E\u0432\u043D\u0438"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: IncreaseSale
+      TermType: 0
+      Description: 
+      Languages:
+      - Increased sale value {[PERCENT]}% for {[DURATION]} min
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: IncreaseSpeed
+      TermType: 0
+      Description: 
+      Languages:
+      - Increased goblin speed {[PERCENT]}% for {[DURATION]} min
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Merge Bonus!
+      TermType: 0
+      Description: 
+      Languages:
+      - Merge Bonus!
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Time Bonus!
+      TermType: 0
+      Description: 
+      Languages:
+      - Time Bonus!
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Passive income lasts longer
+      TermType: 0
+      Description: 
+      Languages:
+      - Passive income lasts longer
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Efficient Workers!
+      TermType: 0
+      Description: 
+      Languages:
+      - Efficient Workers!
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Redused the debuff to the income in AFK mode
+      TermType: 0
+      Description: 
+      Languages:
+      - Redused the debuff to the income in AFK mode
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Incease storage capacity
+      TermType: 0
+      Description: 
+      Languages:
+      - Incease storage capacity
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Speed Increase!
+      TermType: 0
+      Description: 
+      Languages:
+      - Speed Increase!
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Give your goblin a speed bonus
+      TermType: 0
+      Description: 
+      Languages:
+      - Give your goblin a speed bonus
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Large Pockets!
+      TermType: 0
+      Description: 
+      Languages:
+      - Large Pockets!
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Goblin will carry more resources
+      TermType: 0
+      Description: 
+      Languages:
+      - Goblin will carry more resources!
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Luck Bonus!
+      TermType: 0
+      Description: 
+      Languages:
+      - Luck Bonus!
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Increases the gold bonus from a lucky sale
+      TermType: 0
+      Description: 
+      Languages:
+      - Increases the gold bonus from a lucky sale
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Storage Spase!
+      TermType: 0
+      Description: 
+      Languages:
+      - Storage Spase!
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Lucky Sale!
+      TermType: 0
+      Description: 
+      Languages:
+      - Lucky Sale!
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Increases the chance of selling the resource at a higher price
+      TermType: 0
+      Description: 
+      Languages:
+      - Increases the chance of selling the resource at a higher price
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Instant Sale
+      TermType: 0
+      Description: 
+      Languages:
+      - Instant Sale!
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Waiting Is Boring
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Waiting Is Boring '
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Fills half the cart
+      TermType: 0
+      Description: 
+      Languages:
+      - Fills half the cart
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Waiting is REALLY boring
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Fills the cart completely
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Upgrade your resources to the new level
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Buy new goblin
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Increase the chances of an instant sale
+      TermType: 0
+      Description: 
+      Languages:
+      - Increase the chances of an instant sale
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Oops! You don't seem to have enough gold, let's go to our treasury
+      TermType: 0
+      Description: 
+      Languages:
+      - Oops! You don't seem to have enough gold, let's go to our treasury
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Within to minutes, any resource merge
+      TermType: 0
+      Description: 
+      Languages:
+      - Within to minutes, any resource merge
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Immediately givesa max level resource!
+      TermType: 0
+      Description: 
+      Languages:
+      - Immediately givesa max level resource!
+      - 
+      Flags: 0000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: Russian
+      Code: ru
+      Flags: 1
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: 
+    Google_SpreadsheetKey: 
+    Google_SpreadsheetName: 
+    Google_LastUpdatedVersion: 
+    Google_Password: change_this
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets: []
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1

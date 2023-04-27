@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d7272403cd154b42ae804274823bbcf, type: 3}
+  m_Name: DailyQuestsConfig
+  m_EditorClassIdentifier: 
+  DifficultyMultiplier:
+  - 1
+  - 1.2
+  - 1.5
+  Quests:
+  - Tasks: 5
+    TaskType: 0
+    QuestName: Watch ad
+    Description: Watch ad
+    QuestTask:
+    - 1
+  - Tasks: 0
+    TaskType: 0
+    QuestName: Buy upgrades
+    Description: Buy upgrades
+    QuestTask:
+    - 10
+    - 15
+    - 20
+  - Tasks: 4
+    TaskType: 0
+    QuestName: Fill the sales area
+    Description: Fill the sales area with top-level resources
+    QuestTask:
+    - 0
+    - 1
+  - Tasks: 4
+    TaskType: 0
+    QuestName: Activate coupons
+    Description: Activate coupons
+    QuestTask:
+    - 3
+    - 5
+    - 10
+  - Tasks: 1
+    TaskType: 0
+    QuestName: Merge resources
+    Description: Merge resources
+    QuestTask:
+    - 100
+    - 150
+    - 200

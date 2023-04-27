@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f92aaa1e6655748028792984b1e9133c, type: 3}
+  m_Name: InstantSaleConfig
+  m_EditorClassIdentifier: 
+  InstantSales:
+  - Chance: 0
+    Cost: 0
+    LocationToOpen: 1
+  - Chance: 10
+    Cost: 10000
+    LocationToOpen: 1
+  - Chance: 20
+    Cost: 50000
+    LocationToOpen: 2
+  - Chance: 40
+    Cost: 500000
+    LocationToOpen: 3
+  - Chance: 50
+    Cost: 1000000
+    LocationToOpen: 4

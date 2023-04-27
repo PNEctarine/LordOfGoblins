@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be81a63237d6a458e9f7ecde053d9b1b, type: 3}
+  m_Name: DialogsConfig
+  m_EditorClassIdentifier: 
+  State:
+  - Location: 0
+    Upgrades: 10
+    Actions: 1
+    Dialogs:
+    - Overlord, you've almost settled this area
+    - It won't be long before we can go and conquer the rest of the land!
+    - All these lands and their inhabitants belong to you. They just don't know it
+      yet
+    - Let's accumulate our strength and continue the offensive. Improve your base
+      a little more first, then we can get back at the pitty humans
+  - Location: 0
+    Upgrades: 30
+    Actions: 3
+    Dialogs:
+    - Overlord, you've already gathered enough resources to set up a base here that
+      can stand up to the humans. It's time to move on!
+    - Don't worry, your progress at the last location will be saved
+    - Pretty empty, but I'm sure you can quickly improve our new den! I think I had
+      a nice spell somewhere
+    - Well done, my Lord! With this, we can quickly restore our strength
+  - Location: 1
+    Upgrades: 40
+    Actions: 0
+    Dialogs:
+    - Well done, my lord. We've dealt with these vile dwarves and can move on to
+      new lands
+    - Let's pay the dirty people a visit and take their land!
+  - Location: 2
+    Upgrades: 50
+    Actions: 0
+    Dialogs:
+    - Looks like the people weren't helped by their ponies. You're back on the horse,
+      Lord!
+    - Let's deal now with the people who are trapped in the castles. The walls are
+      strong, but they won't help against a horde of goblins
+  - Location: 3
+    Upgrades: 50
+    Actions: 0
+    Dialogs:
+    - '"Now all this castle is ours! Oh, I was going to say yours... Let''s talk
+      about something else'
+    - There isn't much left, Lord. The long-eared ones are huddled in their trees,
+      but they don't expect our attack from beneath the roots. Let's go!

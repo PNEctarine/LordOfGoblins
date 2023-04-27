@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00624a113bf2e47c5b714bbae96875ef, type: 3}
+  m_Name: CouponsConfig
+  m_EditorClassIdentifier: 
+  LostParticle: {fileID: 4390706074443545034, guid: da605752fa795a94eaa90227339b1925, type: 3}
+  Coupons:
+  - Chance: 50
+    Percent: 20
+    Visual: {fileID: 21300000, guid: 201982f01026e40998a82f877e09b65b, type: 3}
+    Glow: {fileID: 21300000, guid: 3713fdb5757594c10aa540e87b370309, type: 3}
+    CouponParticle: {fileID: 5591864851940644761, guid: fa11d7f89ea83264daad9dd0d20cf2c2, type: 3}
+  - Chance: 50
+    Percent: 20
+    Visual: {fileID: 21300000, guid: e18796ef047a3470e8313698a3a52f6b, type: 3}
+    Glow: {fileID: 21300000, guid: 292fa2491e3954cb99f8bbbe104e4110, type: 3}
+    CouponParticle: {fileID: 1162181512561018352, guid: 5042aa94f3092084ab53a4fb41af8ddb, type: 3}
+  - Chance: 50
+    Percent: 20
+    Visual: {fileID: 21300000, guid: 4dfcc290a1a214281a485bbfbb10017b, type: 3}
+    Glow: {fileID: 21300000, guid: 8f9143cb3469d47ddb610664c12b27bf, type: 3}
+    CouponParticle: {fileID: 8245347151096429028, guid: 8884fdfebd13aa142befe50cf59f36fe, type: 3}
+  - Chance: 50
+    Percent: 20
+    Visual: {fileID: 21300000, guid: b81e7f39f934745f8b3df8de54ddca13, type: 3}
+    Glow: {fileID: 21300000, guid: 1f166fd2d34274bdf822de8069818234, type: 3}
+    CouponParticle: {fileID: 5809639746257016347, guid: 4fa09e338a7963648ac119768cd69bf6, type: 3}
+  - Chance: 50
+    Percent: 20
+    Visual: {fileID: 21300000, guid: 76d0852b5107a42709e166b5428500ef, type: 3}
+    Glow: {fileID: 21300000, guid: e9a38f02d53464998b68ee43cb3744bd, type: 3}
+    CouponParticle: {fileID: 7633097572359435581, guid: 6439f24f621c5d64c9aa739ad2662176, type: 3}
