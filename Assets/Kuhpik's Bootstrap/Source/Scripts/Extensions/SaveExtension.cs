@@ -1,6 +1,4 @@
-﻿using Firebase;
-using Firebase.Storage;
-using Sirenix.OdinSerializer;
+﻿using Sirenix.OdinSerializer;
 using System;
 using System.Threading.Tasks;
 using UnityEngine;

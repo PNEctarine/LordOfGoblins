@@ -3,7 +3,6 @@ using System.Collections;
 using Code.Enums;
 using DG.Tweening;
 using Kuhpik;
-using LunarConsolePlugin;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
