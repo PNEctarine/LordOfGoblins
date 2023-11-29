@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "88502829836",
+    "project_id": "lord-of-goblins",
+    "storage_bucket": "lord-of-goblins.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88502829836:android:f48cc020800e28b2ca7f29",
+        "android_client_info": {
+          "package_name": "com.idle.lord.of.goblins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88502829836-oggqed1cjg5b5u05ckiagarcjilh5spf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.idle.lord.of.goblins",
+            "certificate_hash": "2eb562265139054085c099cca36ea01f577ba6f9"
+          }
+        },
+        {
+          "client_id": "88502829836-6hsao9obvarec5fs5il34imjbqanml44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgxuvsoW9qnCRXj0gWnqHZBmpcNepcw_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88502829836-6hsao9obvarec5fs5il34imjbqanml44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

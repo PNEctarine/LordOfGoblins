@@ -1,0 +1,6 @@
+Location_4_gate.png
+size:180,80
+filter:Linear,Linear
+pma:true
+dust
+bounds:2,2,176,74

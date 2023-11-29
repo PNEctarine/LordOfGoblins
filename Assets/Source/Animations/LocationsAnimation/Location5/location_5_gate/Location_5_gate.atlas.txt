@@ -1,0 +1,8 @@
+Location_5_gate.png
+size:1052,420
+filter:Linear,Linear
+pma:true
+door
+bounds:812,100,238,318
+wall-m
+bounds:2,2,808,416

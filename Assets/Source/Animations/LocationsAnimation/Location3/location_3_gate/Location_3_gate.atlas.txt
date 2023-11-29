@@ -1,0 +1,13 @@
+Location_3_gate.png
+size:380,708
+filter:Linear,Linear
+pma:true
+Layer 1
+bounds:2,111,235,278
+arch
+bounds:2,391,277,314
+bbr
+bounds:280,2,703,98
+rotate:90
+dust
+bounds:2,35,176,74

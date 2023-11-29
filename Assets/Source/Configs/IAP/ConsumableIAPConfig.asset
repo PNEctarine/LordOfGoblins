@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89a82dc508b694f38aa7d320da58b540, type: 3}
+  m_Name: ConsumableIAPConfig
+  m_EditorClassIdentifier: 
+  ConsumableInfo:
+  - ID: hc_gems_600
+    GoogleID: hc_gems_600
+    IosID: hc_gems_600_apple
+    Quantity: 600
+  - ID: hc_gems_1600
+    GoogleID: hc_gems_1600
+    IosID: hc_gems_1600_apple
+    Quantity: 1600
+  - ID: hc_gems_4000
+    GoogleID: hc_gems_4000
+    IosID: hc_gems_4000_apple
+    Quantity: 4000
+  - ID: hc_gems_6000
+    GoogleID: hc_gems_6000
+    IosID: hc_gems_6000_apple
+    Quantity: 6000
+  - ID: magical_coins_15
+    GoogleID: magical_coins_15
+    IosID: magical_coins_15_apple
+    Quantity: 15
+  - ID: magical_coins_30
+    GoogleID: magical_coins_30
+    IosID: magical_coins_30_apple
+    Quantity: 30
+  - ID: magical_coins_70
+    GoogleID: magical_coins_70
+    IosID: magical_coins_70_apple
+    Quantity: 70

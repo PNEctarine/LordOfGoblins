@@ -1,0 +1,11 @@
+Light.png
+size:3632,3300
+filter:Linear,Linear
+pma:true
+light-1
+bounds:1822,2,1501,1484
+light-2
+bounds:2,1481,1818,1817
+light-3
+bounds:1822,1488,1810,1805
+rotate:90

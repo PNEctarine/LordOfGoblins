@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 450260b91378f480690e8b0d373127c8, type: 3}
+  m_Name: PassiveEarningsEffectivenessConfig
+  m_EditorClassIdentifier: 
+  PassiveEarningEffectivenesses:
+  - Percent: 30
+    Cost: 200
+    LocationToOpen: 1
+  - Percent: 35
+    Cost: 700
+    LocationToOpen: 1
+  - Percent: 40
+    Cost: 1400
+    LocationToOpen: 1
+  - Percent: 45
+    Cost: 5000
+    LocationToOpen: 1
+  - Percent: 50
+    Cost: 10000
+    LocationToOpen: 1
+  - Percent: 55
+    Cost: 20000
+    LocationToOpen: 1
+  - Percent: 60
+    Cost: 40000
+    LocationToOpen: 1
+  - Percent: 65
+    Cost: 100000
+    LocationToOpen: 1
+  - Percent: 70
+    Cost: 150000
+    LocationToOpen: 1
+  - Percent: 75
+    Cost: 300000
+    LocationToOpen: 1
+  - Percent: 80
+    Cost: 700000
+    LocationToOpen: 1
+  - Percent: 85
+    Cost: 1000000
+    LocationToOpen: 2
+  - Percent: 90
+    Cost: 2000000
+    LocationToOpen: 2
+  - Percent: 95
+    Cost: 4000000
+    LocationToOpen: 2
+  - Percent: 100
+    Cost: 8000000
+    LocationToOpen: 2
+  - Percent: 100
+    Cost: 12000000
+    LocationToOpen: 2
+  - Percent: 100
+    Cost: 17000000
+    LocationToOpen: 2
+  - Percent: 100
+    Cost: 50000000
+    LocationToOpen: 2
+  - Percent: 100
+    Cost: 60000000
+    LocationToOpen: 2
+  - Percent: 100
+    Cost: 250000000
+    LocationToOpen: 3
+  - Percent: 100
+    Cost: 700000000
+    LocationToOpen: 3
+  - Percent: 100
+    Cost: 1000000000
+    LocationToOpen: 3
+  - Percent: 100
+    Cost: 12000000000
+    LocationToOpen: 3
+  - Percent: 100
+    Cost: 70000000000
+    LocationToOpen: 3
+  - Percent: 100
+    Cost: 120000000000
+    LocationToOpen: 3

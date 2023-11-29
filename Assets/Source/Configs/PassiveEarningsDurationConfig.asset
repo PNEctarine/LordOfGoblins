@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a684a182d4cf46d7892fa244b41030d, type: 3}
+  m_Name: PassiveEarningsDurationConfig
+  m_EditorClassIdentifier: 
+  PassiveEarnings:
+  - TimeOfAction: 1
+    Cost: 400
+  - TimeOfAction: 2
+    Cost: 650
+  - TimeOfAction: 3
+    Cost: 950
+  - TimeOfAction: 4
+    Cost: 1300
+  - TimeOfAction: 5
+    Cost: 2500
+  - TimeOfAction: 6
+    Cost: 5600
+  - TimeOfAction: 7
+    Cost: 8900
+  - TimeOfAction: 8
+    Cost: 13000
+  - TimeOfAction: 9
+    Cost: 20000
+  - TimeOfAction: 10
+    Cost: 300000
+  - TimeOfAction: 11
+    Cost: 40000
+  - TimeOfAction: 12
+    Cost: 80000
+  - TimeOfAction: 13
+    Cost: 120000
+  - TimeOfAction: 14
+    Cost: 140000
+  - TimeOfAction: 15
+    Cost: 180000
+  - TimeOfAction: 16
+    Cost: 250000
+  - TimeOfAction: 17
+    Cost: 350000
+  - TimeOfAction: 18
+    Cost: 500000
+  - TimeOfAction: 19
+    Cost: 600000
+  - TimeOfAction: 20
+    Cost: 1000000
+  - TimeOfAction: 21
+    Cost: 2000000
+  - TimeOfAction: 22
+    Cost: 4000000
+  - TimeOfAction: 23
+    Cost: 5000000
+  - TimeOfAction: 24
+    Cost: 6000000
+  - TimeOfAction: 25
+    Cost: 10000000

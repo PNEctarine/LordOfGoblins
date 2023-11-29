@@ -1,0 +1,12 @@
+Lock_map.png
+size:408,536
+filter:Linear,Linear
+pma:true
+lock-p-1
+bounds:136,3,126,129
+offsets:1,1,129,130
+rotate:90
+lock-p-2
+bounds:2,2,132,127
+spark1
+bounds:2,131,401,402

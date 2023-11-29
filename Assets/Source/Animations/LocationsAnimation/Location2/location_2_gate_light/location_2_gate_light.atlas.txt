@@ -1,0 +1,6 @@
+location_2_gate_light.png
+size:328,312
+filter:Linear,Linear
+pma:true
+glow-b
+bounds:2,2,321,308

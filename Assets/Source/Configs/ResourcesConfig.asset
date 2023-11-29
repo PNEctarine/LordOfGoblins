@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1541b15e4776a4a989d9bfc6627d3fff, type: 3}
+  m_Name: ResourcesConfig
+  m_EditorClassIdentifier: 
+  Resource:
+  - ResourceName: Wood
+    Level: 1
+    Cost: 1e0000003c00000078000000
+    Visuals:
+    - {fileID: 21300000, guid: 87b6f0500fc4945d2a33079b09bb791f, type: 3}
+    - {fileID: 21300000, guid: 9d2d9069c33a74613b577305237f489c, type: 3}
+    - {fileID: 21300000, guid: 698e6c4ffc85a4696b5364577316b65c, type: 3}
+    Glow:
+    - {fileID: 21300000, guid: 11ffbebb6043d491c8ee7451f2f21993, type: 3}
+    - {fileID: 21300000, guid: 3e533ceaa48254f128ed55588449c475, type: 3}
+    - {fileID: 21300000, guid: 3f633d3859642469f92f7ad6f6846558, type: 3}
+  - ResourceName: Fish
+    Level: 1
+    Cost: 2d0000005a000000b4000000
+    Visuals:
+    - {fileID: 21300000, guid: fa0b5e302a464421a8fd1542feb41425, type: 3}
+    - {fileID: 21300000, guid: 6f571797c1750472786d2ec2a4216c34, type: 3}
+    - {fileID: 21300000, guid: 97952dac3ea1f46ab9a28200a79fff2f, type: 3}
+    Glow:
+    - {fileID: 21300000, guid: ba4b4a6dbbe27469f903682521f920ab, type: 3}
+    - {fileID: 21300000, guid: e0a8f81a937194056a28f4341c1d604b, type: 3}
+    - {fileID: 21300000, guid: 707f8f23f811645dc90927b1469e4cb2, type: 3}
+  - ResourceName: Stone
+    Level: 1
+    Cost: 3c00000078000000f0000000
+    Visuals:
+    - {fileID: 21300000, guid: c37536d5e6ecc4175bdd71e5c8915226, type: 3}
+    - {fileID: 21300000, guid: 2f80cd86c259846a3a938b6bfebb188f, type: 3}
+    - {fileID: 21300000, guid: a9956d5e65f1d4fd3889ec17ecfd1c7e, type: 3}
+    Glow:
+    - {fileID: 21300000, guid: aebce8dcf92394b81aae6f0d666c3830, type: 3}
+    - {fileID: 21300000, guid: 19e0aa2d5925b4725a10282dda7356ee, type: 3}
+    - {fileID: 21300000, guid: cfe55065348964db9906dec9c7450638, type: 3}
+  - ResourceName: Wheat
+    Level: 1
+    Cost: 64000000c800000090010000
+    Visuals:
+    - {fileID: 21300000, guid: 2cf904e48336648899b4947a20eb47da, type: 3}
+    - {fileID: 21300000, guid: f71b6de47ff014bd28824a1f0cd7939a, type: 3}
+    - {fileID: 21300000, guid: 80bf1aacc27d346adadbc1d8068f8f7a, type: 3}
+    Glow:
+    - {fileID: 21300000, guid: ff6cc2934fff642feaa3f2838164f719, type: 3}
+    - {fileID: 21300000, guid: 0a8de05d815c64dcb90ad71faf09ee59, type: 3}
+    - {fileID: 21300000, guid: 144f56116b1fa482faa1c1764083f6a8, type: 3}
+  - ResourceName: Waterskin
+    Level: 2
+    Cost: 960000002c01000058020000
+    Visuals:
+    - {fileID: 21300000, guid: 6d2a7ca6be8314355bb19b151277394a, type: 3}
+    - {fileID: 21300000, guid: 9b7f050f8d6864d36a2a483c1109e348, type: 3}
+    - {fileID: 21300000, guid: 2fc1cb604a9be472e941ea6664c3c6d9, type: 3}
+    Glow:
+    - {fileID: 21300000, guid: 42235fdeabf95498b9e15b4b1d7325b4, type: 3}
+    - {fileID: 21300000, guid: 293440a4157864723a2be4df64db85c2, type: 3}
+    - {fileID: 21300000, guid: 905adf8ba339a4994bdfe08fe337e837, type: 3}
+  - ResourceName: Plank
+    Level: 2
+    Cost: 2c01000058020000b0040000
+    Visuals:
+    - {fileID: 21300000, guid: 3bd7b218b90f84b99be2d20f86e6b7b9, type: 3}
+    - {fileID: 21300000, guid: dd01b26cca28a42c485b92fe3c86c46c, type: 3}
+    - {fileID: 21300000, guid: 51f198c4ff8034761ad0a960e1fc6ebd, type: 3}
+    Glow:
+    - {fileID: 21300000, guid: 16108961c16134b32b4a519d011d32d5, type: 3}
+    - {fileID: 21300000, guid: d1b3f268e5edd41768031499780e6537, type: 3}
+    - {fileID: 21300000, guid: c56eddb74f51e4ee0b2bd8f5023397e6, type: 3}
+  - ResourceName: Meat
+    Level: 2
+    Cost: f4010000e8030000d0070000
+    Visuals:
+    - {fileID: 21300000, guid: c1525ed2ff8574341943d7813c81ff85, type: 3}
+    - {fileID: 21300000, guid: 412791bc23add4905999b25f26aea295, type: 3}
+    - {fileID: 21300000, guid: e6776164cb941410d83f162e8efe0759, type: 3}
+    Glow:
+    - {fileID: 21300000, guid: 88bdc34404bdd407f9ece53e56127056, type: 3}
+    - {fileID: 21300000, guid: 725f34f1d5c04405383d12c837890eaa, type: 3}
+    - {fileID: 21300000, guid: d21fdb137879e43e59431bb6030ddf42, type: 3}
+  - ResourceName: CopperCoin
+    Level: 2
+    Cost: bc02000078050000f00a0000
+    Visuals:
+    - {fileID: 21300000, guid: 42ec1c85f34af4805a91365fbefce6d9, type: 3}
+    - {fileID: 21300000, guid: 5271efbc5ee2f4ef98cd979bba84478c, type: 3}
+    - {fileID: 21300000, guid: 1fd074f29250e4288805ff4827cd27d0, type: 3}
+    Glow:
+    - {fileID: 21300000, guid: f8d6caaeedb9348a780a337e9cbda034, type: 3}
+    - {fileID: 21300000, guid: f4c3b0c70101340b6940fc38bab3a210, type: 3}
+    - {fileID: 21300000, guid: 44ef2178c9ecb4b77b414f8aaa3e57fa, type: 3}
+  - ResourceName: Sword
+    Level: 3
+    Cost: e8030000d0070000b80b0000
+    Visuals:
+    - {fileID: 21300000, guid: ad5538445d8d9406992f24f0089048d1, type: 3}
+    - {fileID: 21300000, guid: 02931b2ad97cb45de92d4877eef102e3, type: 3}
+    - {fileID: 21300000, guid: ae45f79987463472bae2fff05349cd84, type: 3}
+    Glow:
+    - {fileID: 21300000, guid: e43a0887056094c5a8e0eafe6c0d42b3, type: 3}
+    - {fileID: 21300000, guid: 60f337329903e46a3945e478fadfb02f, type: 3}
+    - {fileID: 21300000, guid: 05a2d35f975dd4e6b9c554ca3aa761cd, type: 3}
+  - ResourceName: SilverCoin
+    Level: 3
+    Cost: dc050000b80b000070170000
+    Visuals:
+    - {fileID: 21300000, guid: 42574a5a80d754ebf915fede7c7bbd6d, type: 3}
+    - {fileID: 21300000, guid: 5f59f0d259efc4bc89417b60cb12bca0, type: 3}
+    - {fileID: 21300000, guid: efc77f1c876e04c7f969cfdfededef37, type: 3}
+    Glow:
+    - {fileID: 21300000, guid: 2465ffc3cffb140e2bf3958c8afdd33e, type: 3}
+    - {fileID: 21300000, guid: bbbd32144e8b24c6cb922924d2fde751, type: 3}
+    - {fileID: 21300000, guid: d0ac3c82a341b4236a80a5ff726b748e, type: 3}
+  - ResourceName: Horseshoe
+    Level: 3
+    Cost: b80b000070170000e02e0000
+    Visuals:
+    - {fileID: 21300000, guid: 1dcdc7f06e13842ffae00ec3824aca32, type: 3}
+    - {fileID: 21300000, guid: 18fefb425b8e34f6886ff2d5af42d7ad, type: 3}
+    - {fileID: 21300000, guid: 6a44f44409e1646659369f81fee47ea3, type: 3}
+    Glow:
+    - {fileID: 21300000, guid: cd4407a3fe4384b9190f0d12b0911ece, type: 3}
+    - {fileID: 21300000, guid: d52d6c43647e94b86ba488afc73117ab, type: 3}
+    - {fileID: 21300000, guid: fca8a96fb99dd4fa68a6b2081fe28bf1, type: 3}
+  - ResourceName: Shield
+    Level: 3
+    Cost: 68100000d0200000a0410000
+    Visuals:
+    - {fileID: 21300000, guid: 58a1649324afd4e2e8af9dea69bbd5aa, type: 3}
+    - {fileID: 21300000, guid: 734aaf4fe08624c3b99b0a67770eedd7, type: 3}
+    - {fileID: 21300000, guid: 3b3f8fabdf0d849168f04f30bf5cc042, type: 3}
+    Glow:
+    - {fileID: 21300000, guid: dd66d691b51bc49e89e6ecb7b4295e20, type: 3}
+    - {fileID: 21300000, guid: 0004a2766e7d54a1e864de696a51d000, type: 3}
+    - {fileID: 21300000, guid: 9f044c60dd5d5415886f09ae6448287e, type: 3}

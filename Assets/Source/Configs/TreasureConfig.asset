@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd0e8bb33c61c400496cb8e5eaaf40c5, type: 3}
+  m_Name: TreasureConfig
+  m_EditorClassIdentifier: 
+  Treasures:
+  - Cost: 14050000
+    Visual:
+    - {fileID: 21300000, guid: 688813ad5bf1c489c8fbf720db8501de, type: 3}
+    Glow:
+    - {fileID: 21300000, guid: 104638e2f737b46a59b5b619d891bbcc, type: 3}
+  - Cost: 88130000
+    Visual:
+    - {fileID: 21300000, guid: 636fb843202c043119bdfb38d5af95b8, type: 3}
+    Glow:
+    - {fileID: 21300000, guid: f1aefc24e8bb14717be0a564638b37c9, type: 3}
+  - Cost: e02e0000
+    Visual:
+    - {fileID: 21300000, guid: 4c6d8b37725d7458fb4e74eeb1d1787b, type: 3}
+    Glow:
+    - {fileID: 21300000, guid: 041386b8ead6e435384e53d59857dec4, type: 3}
+  - Cost: 50c30000
+    Visual:
+    - {fileID: 21300000, guid: ed046c63f673f4f18b3a900a0a87088a, type: 3}
+    Glow:
+    - {fileID: 21300000, guid: c20af3f6839fd4c37b5f17db069f53e2, type: 3}
+  - Cost: 20bf0200
+    Visual:
+    - {fileID: 21300000, guid: 7297b61460550472187a2258eb8e5714, type: 3}
+    Glow:
+    - {fileID: 21300000, guid: 4839ba2f8c3c0431981745bd2bf347fe, type: 3}
+  - Cost: 20a10700
+    Visual:
+    - {fileID: 21300000, guid: 89d25eb62502e4e6aabadd18acb99ae3, type: 3}
+    Glow:
+    - {fileID: 21300000, guid: 66e09255b0aed40a1876d9bf163ffc0d, type: 3}

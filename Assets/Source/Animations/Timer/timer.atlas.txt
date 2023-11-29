@@ -1,0 +1,11 @@
+timer.png
+size:88,228
+filter:Linear,Linear
+pma:true
+timer-1
+bounds:2,2,66,66
+offsets:3,3,71,71
+timer-2
+bounds:2,70,71,71
+timer-3
+bounds:2,143,83,83

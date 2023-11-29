@@ -1,0 +1,9 @@
+gate_light.png
+size:796,432
+filter:Linear,Linear
+pma:true
+backlight
+bounds:2,2,448,428
+bg
+bounds:452,2,427,342
+rotate:90
